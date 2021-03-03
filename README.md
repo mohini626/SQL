@@ -1,2 +1,2 @@
-# SQL-1
+# SQL
 SQL cheatsheet
